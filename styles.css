@@ -1,0 +1,14 @@
+#container {
+
+}
+.page-header {
+  text-align: center;
+
+}
+.btn-group {
+    position: relative;
+    top: -11px
+}
+body {
+  background-color: #FFFAF0
+}
